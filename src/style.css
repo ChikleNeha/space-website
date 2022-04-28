@@ -1,0 +1,62 @@
+
+body {
+  margin: 0px;
+  background-image: url("http://2.bp.blogspot.com/-TJYmOG9hd6U/T3NVAAO9ihI/AAAAAAAABMo/IyOrWJxCHFQ/s1600/1+%2812%29.jpg");
+  background-repeat: no-repeat;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+.nav {
+  background: #ffffff13;
+  backdrop-filter: blur(10px);
+  display: flex;
+  color: white;
+  font-weight: normal;
+  font-size: 12px;
+  letter-spacing: 2.7px;
+  width: 700px;
+  margin-left: auto;
+  height: 60px;
+  margin-top: -39px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/* all--nav--bar {
+  display: flex;
+  flex-direction: row;
+} */
+hr {
+  border: 0.01px solid #ffffff4b;
+}
+
+.hr--tag {
+  margin-top: 62px;
+  margin-right: 600px;
+}
+
+.home--text {
+  color: white;
+  width: 450px;
+  margin-left: 160px;
+}
+
+#space {
+  margin-top: 0px;
+  font-family: 'Bellefair', serif;
+  font-size: 90px;
+  letter-spacing: 0.8px;
+  margin-bottom: 0px;
+}
+
+#home--para {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 200;
+  letter-spacing: 1.0px;
+  font-size: small;
+}
+
+#so-you-want {
+  letter-spacing: 1.9px;
+  margin-bottom: 18px;
+}
